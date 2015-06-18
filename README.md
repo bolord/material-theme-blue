@@ -14,11 +14,11 @@ This theme is another style of [Material Theme](https://github.com/equinusocio/m
 
 ## Screenshots
 
-![image](assets/blue/screenshot-1.png)
+![image](http://bolord.github.io/material-theme-blue/assets/screenshot-1.png)
 
-![image](assets/blue/screenshot-2.png)
+![image](http://bolord.github.io/material-theme-blue/assets/screenshot-2.png)
 
-![image](assets/blue/screenshot-3.png)
+![image](http://bolord.github.io/material-theme-blue/assets/screenshot-3.png)
 
 ## Package Control
 <!-- You can install this awesome theme through the [Package Control](https://packagecontrol.io/installation). Search for *"Material Theme"*, install, **restart Sublime Text** and enjoy! -->
